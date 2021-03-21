@@ -1,0 +1,581 @@
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    /* Top Bar */
+    .top-bar-right{
+        display: none
+    }
+    .top-bar ul {
+        font-size: 11px;
+    }
+    /* Navigation Bar */
+    .navbar-button{
+        position: absolute !important;
+        right: 0 !important;
+        top: 14px !important;
+    }
+    .mr{
+        margin-right: 0rem !important;
+    }
+    .navbar-nav {
+        float: unset !important;
+        margin-top: 45px;
+        padding: 0;
+        width: 100%;
+        text-align: right;
+    }
+    .navigation {
+        padding: 0 !important;
+    }
+    .header_logo{
+        margin-top:5%;
+    }
+    .header-logo {    
+        font-size: 23px;
+    }
+    .navbar-button {
+       display: block;
+       background-color: #f0f8ff00;
+       border: none;
+    }
+    .fa-menu{
+        font-size: 21px !important;
+    color: #9f9e9e !important;
+    }
+    
+    /* Banner */
+    .banner-content h6 {
+        text-align: center;
+        font-size: 15px;
+    }
+    .banner-content h1 {
+        line-height: 5px !important;    
+        text-align: center;
+        font-size: 20px;
+    }
+    .banner-content p {
+       display: none;
+    }
+    .banner-content button {
+       display: none;
+    }
+    .banner-content {
+        padding-top: 5.1rem;
+        padding-bottom: 5.1rem;
+    }
+    /* services */
+    .services-bg {
+        position: relative;
+        top: 37px;
+        padding-bottom: 12%;
+    }
+    .border-line {
+         border-right: none;
+         
+    }
+    .service-align{
+        text-align: center;
+    }
+    .service-responsive-padding{
+        padding-top: 9%;
+    }
+    .service-align p{
+        font-size: 12px;
+    }
+     /* About Section */
+    .about-img {
+        display: none;
+    }
+    .about-section {
+        margin-top: 9%;
+    }
+    .about-content h1 {
+        font-family: playfair display;
+        font-weight: 700;
+        font-size: 26px;
+    }
+    .about-content p {
+        font-family: Montserrat;
+        font-size: 13px;
+        line-height: 2;
+    }
+    .about-content ul {
+        font-family: Montserrat;
+        font-size: 13px;
+        line-height: 2;
+    }
+    /* Popular Courses */
+    .popular-bg {
+        margin-top: 17%;
+        padding-bottom: 16%;
+    }
+    .popular-courses-heading {
+        padding-top: 13%;
+    }
+    .popular-courses-heading h1{
+        font-size: 30px;
+    }
+    .popular-card div{
+        margin-top: 5%;
+    }
+    /* Register section*/
+    .register-bg {
+        padding-bottom: 16%;
+        
+    }
+    .form-group .form-control{
+        width: 87% !important;
+    }
+    .register-text p {
+        font-size: 18px;
+    }
+    /* Events section*/
+    .event-heading {
+        padding-top: 16%;
+    }
+    .event-heading h1{
+        font-size: 30px;
+    }
+    .event-card-bg {
+        margin-top: 10%;
+        padding: 20%;
+    }
+    .event-text{
+        text-align: center;
+    }
+    .event-text h4{
+        font-size: 19px;
+    }   
+    .event-text p {
+        padding-top: 10%;
+        font-size: 13px;
+    }
+    
+    .event-text span {
+        color: gray;
+        font-size: 11px;
+    }
+    .event-bg {
+        background-color: #ededed;
+        padding-bottom: 19%;
+    }
+    /* Features section*/
+    .responsive-align{
+        text-align: center;
+        margin-top: 10%;
+    }
+    .features-bg {
+        padding-bottom: 15%;
+    }
+    /* Recent Stories*/
+    .recent-heading h1{
+        font-size: 30px;
+        padding-top: 14%;
+    }
+    .recent-heading p {
+        font-size: 12px;
+    }
+    .recent-responsive{
+        margin-top: 15%;
+    }
+    .recent-text{
+        margin-top: 12%;
+
+    }
+    .recent-bg {
+        padding-bottom: 20%;
+    }
+    /* Suponsors section*/
+    .suponsors {
+        padding-top: 0%;
+        padding-bottom: 17%;
+        text-align: center;
+    }
+    .suponsors div{
+        margin-top: 14%;
+    }
+    /* Footer Section*/
+    .form-control {
+        width: 100% !important;
+    }
+    .footer-navigation{
+        margin-top: 14%;
+    }
+    .footer-navigation h2 {
+        font-size: 19px;
+        padding-bottom: 1%;
+    }
+    .footer-bg {
+        padding-top: 10%;
+    }
+    .footer-useful{
+        margin-top: 14%;
+    }
+    .footer-useful h2{
+        font-size: 19px;
+        padding-bottom: 1%;
+    }
+    .footer-getin-touch{
+        margin-top: 14%;
+    }
+    .footer-getin-touch h2{
+        font-size: 19px;
+        padding-bottom: 1%;
+       
+    }
+    /* Bottom Section*/
+    .bottom p {
+        color: white;
+        font-size: 13px;
+        text-align: center;
+    }
+    .bottom ul {
+        font-size: 13px;
+    }
+    .bottom-right {
+        text-align: center; 
+    }
+    .bottom-hr {
+        margin-top: 16%;
+    }
+    .bottom ul {
+       padding: 0%;
+    }
+
+
+}
+
+@media only screen and (min-device-width : 481px) and (max-device-width : 767px) {
+      /* Top Bar */
+      .top-bar-right{
+        display: none
+    }
+    .top-bar ul {
+        font-size: 11px;
+    }
+    /* Navigation Bar */
+    .navbar-button{
+        position: absolute !important;
+        right: 0 !important;
+        top: 14px !important;
+    }
+    .mr{
+        margin-right: 0rem !important;
+    }
+    .navbar-nav {
+        float: unset !important;
+        margin-top: 45px;
+        padding: 0;
+        width: 100%;
+        text-align: right;
+    }
+    .navigation {
+        padding: 0 !important;
+    }
+    .header_logo{
+        margin-top:5%;
+    }
+    .header-logo {
+        
+        font-size: 23px;
+    }
+    .navbar-button {
+       display: block;
+    }
+
+    /* Banner */
+    .banner-content h6 {
+        text-align: center;
+    }
+    .banner-content h1 {
+        line-height: 5px !important;    
+        text-align: center;
+        font-size: 24px;
+    }
+    .banner-content p {
+       display: none;
+    }
+    .banner-content button {
+       display: none;
+    }
+    .banner-content {
+        padding-top: 5.1rem;
+        padding-bottom: 5.1rem;
+    }
+    /* services */
+    .services-bg {
+        position: relative;
+        top: 37px;
+        padding-bottom: 12%;
+    }
+    .border-line {
+         border-right: none;
+         
+    }
+    .service-align{
+        text-align: center;
+    }
+    .service-responsive-padding{
+        padding-top: 9%;
+    }
+    .service-align p{
+        font-size: 12px;
+    }
+     /* About Section */
+    .about-img {
+        display: none;
+    }
+    .about-section {
+        margin-top: 9%;
+    }
+    /* Popular Courses */
+    .popular-bg {
+        margin-top: 17%;
+        padding-bottom: 16%;
+    }
+    .popular-courses-heading {
+        padding-top: 13%;
+    }
+    .popular-courses-heading h1{
+        font-size: 30px;
+    }
+    .popular-card div{
+        margin-top: 5%;
+    }
+    /* Register section*/
+    .register-bg {
+        padding-bottom: 16%;
+        
+    } 
+    .form-group .form-control{
+        width: 87% !important;
+
+    }
+    /* Events section*/
+    .event-heading {
+        padding-top: 16%;
+    }
+    .event-heading h1{
+        font-size: 30px;
+    }
+    .event-card-bg {
+        margin-top: 10%;
+        padding: 20%;
+    }
+    .event-text{
+        text-align: center;
+    }
+    .event-text h4{
+        font-size: 19px;
+    }   
+    .event-text p {
+        padding-top: 10%;
+        font-size: 13px;
+    }
+    
+    .event-text span {
+        color: gray;
+        font-size: 11px;
+    }
+    .event-bg {
+        background-color: #ededed;
+        padding-bottom: 19%;
+    }
+    /* Features section*/
+    .responsive-align{
+        text-align: center;
+        margin-top: 10%;
+    }
+    .features-bg {
+        padding-bottom: 15%;
+    }
+    /* Recent Stories*/
+    .recent-heading h1{
+        font-size: 30px;
+        padding-top: 14%;
+    }
+    .recent-heading p {
+        font-size: 12px;
+    }
+    .recent-responsive{
+        margin-top: 15%;
+    }
+    .recent-text{
+        margin-top: 12%;
+
+    }
+    .recent-bg {
+        padding-bottom: 20%;
+    }
+    /* Suponsors section*/
+    .suponsors {
+        padding-top: 0%;
+        padding-bottom: 17%;
+        text-align: center;
+    }
+    .suponsors div{
+        margin-top: 14%;
+    }
+    /* Footer Section*/
+    .form-control {
+        width: 100% !important;
+    }
+    .footer-navigation{
+        margin-top: 14%;
+    }
+    .footer-navigation h2 {
+        font-size: 19px;
+        padding-bottom: 1%;
+    }
+    .footer-bg {
+        padding-top: 10%;
+    }
+    .footer-useful{
+        margin-top: 14%;
+    }
+    .footer-useful h2{
+        font-size: 19px;
+        padding-bottom: 1%;
+    }
+    .footer-getin-touch{
+        margin-top: 14%;
+    }
+    .footer-getin-touch h2{
+        font-size: 19px;
+        padding-bottom: 1%;
+       
+    }
+    /* Bottom Section*/
+    .bottom p {
+        color: white;
+        font-size: 13px;
+        text-align: center;
+    }
+    .bottom ul {
+        font-size: 13px;
+    }
+    .bottom-right {
+        text-align: center; 
+    }
+    .bottom-hr {
+        margin-top: 16%;
+    }
+    .bottom ul {
+       padding: 0%;
+    }
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1023px) {
+    /* Top Bar */
+    .top-bar ul {
+        font-size: 16px;
+    }
+    /* banner */
+    .banner-content button {
+        margin-top: 2%;
+    }
+    .service-responsive-padding{
+        margin-left:4px;
+    }
+    /* About Section */
+    .about-content {
+        padding-top: 0%;
+    }
+    /*popular courses*/
+    .popular-card-tab{
+        display: none;
+    }
+    .popular-bg {
+        padding-bottom: 11%;
+    }
+    .popular-card {
+        margin-top: 7%;
+    }
+    /* Register Section */
+    .register-bg {
+        background-position: center;
+        padding-bottom: 14%;
+    }
+    .register-text {
+        padding-top: 8%;
+    }
+    .register-form {
+        margin-top: 9%;
+       
+    }
+    .btn-primary {
+        font-size: 21px;
+    }
+    .form-group .form-control{
+        padding: 2.375rem 0.75rem !important;
+    }
+    /* Event Section */
+
+    .event-card-bg {
+        padding: 12%;
+      
+    }
+    .event-text{
+        text-align: center;
+        margin-top: 7%;
+    }
+    .text-align{
+        text-align: center !important;
+    }
+    .event-date {
+     width: 35%;
+     /* display: inline-block; */
+     margin: auto;
+    }
+    .event-ticket {
+        background-color: #fab50a;
+        margin-top: 3%;
+        color: white;
+        text-align: center;
+        width: 35%;
+        margin: auto;
+     
+    }
+    .event-ticket p{
+        margin: 4% 5%;
+    }
+    .event-img {
+        margin-top: 5%;
+    }
+    /* Features Section */
+    .responsive-align{
+        text-align: center;
+    }
+    .responsive-tab-padding{
+        padding: 3% 2%;
+    }
+    /* Recent Stories */
+    .recent-bg {
+        padding-bottom: 10%;
+    }
+    .responsive-tab-img{
+        width: 100%;
+        padding: 15%;
+    }
+    /* Footer section */
+
+    .footer-navigation h2{
+        font-size: 21px;
+    }
+    .footer-useful h2{
+        font-size: 21px;
+
+    }
+    .footer-getin-touch h2{
+        font-size: 21px;
+
+    }
+    .footer-icon{
+        width: 100%;
+      
+    }
+
+
+
+
+
+}
+
